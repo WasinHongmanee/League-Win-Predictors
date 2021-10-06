@@ -1,4 +1,4 @@
-# How to win in League of Legends
+# Key Winning Features in League of Legends
 
 ![League of Legends: Mobile may be unveiled at Riot&#39;s 10-year anniversary  event - Dot Esports](https://cdn1.dotesports.com/wp-content/uploads/2019/09/12195522/league-of-legends.jpg)
 
