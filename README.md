@@ -4,6 +4,5 @@
 
 Using the Riot API, I collected events from the first ten minutes of 6661 Challenger ranked games, cleaned the data, summarized the main features using graphs and created a machine learning logistic regression model that predicts the outcome of games with an accuracy of 72.5%. I was able to conclude the top features that point to a winning game using feature selection ranking algorithms.
 
-
-
+## [Link To my Portfolio!](https://wasinhongmanee.github.io/Portfolio/) 
 
